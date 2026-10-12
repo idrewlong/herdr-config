@@ -1,0 +1,6 @@
+{
+  "hidden": true,
+  "order": ["claude", "openai-codex", "opencode-go"],
+  "sidebar": { "show": { "context": true, "5h": true, "week": true }, "layout": "rows", "style": "dots", "size": 2 },
+  "tabbar": { "agents": { "claude": true }, "windows": { "5h": true, "week": true }, "style": "dots", "size": 2 }
+}
